@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dbFilePath = path.join(__dirname, 'prepsync_data.json');
+const dbFilePath = process.env.DATA_FILE || path.join(__dirname, 'prepsync_data.json');
 
 // Memory state persisted to JSON
 let data = {

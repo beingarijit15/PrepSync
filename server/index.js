@@ -4,11 +4,16 @@ const cors = require('cors');
 const path = require('path');
 
 const app = express();
+const clientDistPath = path.join(__dirname, '..', 'client', 'dist');
 
 // Middleware
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'ok' });
+});
 
 // Serve static files for uploads if needed in future
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
@@ -21,9 +26,15 @@ app.use('/api/resume', require('./routes/resume'));
 app.use('/api/goals', require('./routes/goals'));
 app.use('/api/companies', require('./routes/companies'));
 
-// Default route
-app.get('/', (req, res) => {
-  res.send('PrepSync API is running');
+// Serve the Vite build from the same origin as the API.
+app.use(express.static(clientDistPath));
+app.get('*', (req, res, next) => {
+  if (req.path.startsWith('/api/')) {
+    return next();
+  }
+  res.sendFile(path.join(clientDistPath, 'index.html'), (err) => {
+    if (err) next(err);
+  });
 });
 
 // Error handling middleware

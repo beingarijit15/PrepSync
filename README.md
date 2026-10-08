@@ -41,6 +41,7 @@ PrepSync is a unified placement preparation platform that brings order to chaos.
    cd client && npm install
    cd ../server && npm install
    ```
+
 3. Run the development servers:
    ```bash
    # In client/
@@ -49,6 +50,18 @@ PrepSync is a unified placement preparation platform that brings order to chaos.
    # In server/
    npm run dev
    ```
+
+## Deploy on Render
+
+This repository includes a `render.yaml` Blueprint for a single Node.js web service. It builds the Vite client, starts the Express API, and serves both from the same URL.
+
+1. Push this repository to GitHub.
+2. In Render, choose **New → Blueprint**, connect this repository, and apply the `render.yaml` Blueprint.
+The Blueprint uses Render's free web service plan. Its local filesystem is temporary, so the JSON-backed user data can be lost when the service restarts or redeploys. For persistent user data, attach a paid persistent disk and set `DATA_FILE` to a file path on that disk, or migrate the app to a managed database.
+
+## Deploy the frontend on Vercel
+
+Create a Vercel project from this repository and set its **Root Directory** to `client`. Vercel uses `client/vercel.json` to build and serve the React single-page app. In the Vercel project's Environment Variables, set `VITE_API_URL` to the deployed Render service URL (for example, `https://prepsync.onrender.com`) and redeploy. The client appends `/api` automatically. Keep the API and frontend on their respective hosts: the server's JSON data store is not suitable for Vercel's serverless filesystem.
 
 ## Screenshots
 *(UI Mockups and Screenshots placeholder)*
