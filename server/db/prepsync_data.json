@@ -1,0 +1,1305 @@
+{
+  "users": [],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Arrays",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Goldman Sachs,Zomato,Adobe"
+    },
+    {
+      "id": 2,
+      "name": "Strings",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Infosys,Flipkart,Google,Goldman Sachs,Apple"
+    },
+    {
+      "id": 3,
+      "name": "Linked Lists",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Meta,Flipkart,Zomato,Netflix"
+    },
+    {
+      "id": 4,
+      "name": "Trees",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Google"
+    },
+    {
+      "id": 5,
+      "name": "Graphs",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Apple,Flipkart,Goldman Sachs,Uber,Amazon"
+    },
+    {
+      "id": 6,
+      "name": "Dynamic Programming",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Flipkart,Microsoft,Amazon,Netflix"
+    },
+    {
+      "id": 7,
+      "name": "Backtracking",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Apple,Meta"
+    },
+    {
+      "id": 8,
+      "name": "Sorting",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Apple,Flipkart,Zomato"
+    },
+    {
+      "id": 9,
+      "name": "Searching",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "TCS,Microsoft,Amazon,Google"
+    },
+    {
+      "id": 10,
+      "name": "Stacks",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Meta,Google,Adobe"
+    },
+    {
+      "id": 11,
+      "name": "Queues",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Flipkart,Meta,Wipro"
+    },
+    {
+      "id": 12,
+      "name": "Heaps",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Goldman Sachs,Swiggy,Apple"
+    },
+    {
+      "id": 13,
+      "name": "Hashing",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Zomato,Goldman Sachs,Wipro"
+    },
+    {
+      "id": 14,
+      "name": "Greedy",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Netflix,Adobe,Google,Goldman Sachs"
+    },
+    {
+      "id": 15,
+      "name": "Sliding Window",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Uber,TCS,Meta"
+    },
+    {
+      "id": 16,
+      "name": "Two Pointers",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Wipro,Uber,Swiggy,Infosys"
+    },
+    {
+      "id": 17,
+      "name": "Binary Search",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Infosys,Wipro"
+    },
+    {
+      "id": 18,
+      "name": "Tries",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Amazon,Flipkart,Microsoft"
+    },
+    {
+      "id": 19,
+      "name": "Segment Trees",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Uber,Google,Amazon,Zomato,Meta"
+    },
+    {
+      "id": 20,
+      "name": "Bit Manipulation",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Flipkart,Amazon,Zomato,Microsoft,TCS"
+    },
+    {
+      "id": 21,
+      "name": "Maths",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Zomato,Amazon,Google"
+    },
+    {
+      "id": 22,
+      "name": "Divide and Conquer",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Infosys,Uber,Goldman Sachs"
+    },
+    {
+      "id": 23,
+      "name": "Matrix",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Google,Zomato,Amazon,Microsoft,Flipkart"
+    },
+    {
+      "id": 24,
+      "name": "Hash Table",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Google,Adobe,Wipro"
+    },
+    {
+      "id": 25,
+      "name": "String Matching",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Google,Flipkart,Amazon"
+    },
+    {
+      "id": 26,
+      "name": "Prefix Sum",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Google,Microsoft,Zomato"
+    },
+    {
+      "id": 27,
+      "name": "Simulation",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Google,Amazon,Netflix,Zomato,Goldman Sachs"
+    },
+    {
+      "id": 28,
+      "name": "Counting",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Meta,Amazon,Uber,Netflix"
+    },
+    {
+      "id": 29,
+      "name": "Design",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,Zomato,Uber,Google"
+    },
+    {
+      "id": 30,
+      "name": "Graph Theory",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Microsoft,Apple,Google"
+    },
+    {
+      "id": 31,
+      "name": "Shortest Path",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Flipkart,Microsoft,Uber,Wipro"
+    },
+    {
+      "id": 32,
+      "name": "Combinatorics",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Apple,Meta"
+    },
+    {
+      "id": 33,
+      "name": "Geometry",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Zomato,Flipkart,Microsoft,Uber,Meta"
+    },
+    {
+      "id": 34,
+      "name": "Number Theory",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Swiggy,Infosys,Google,TCS"
+    },
+    {
+      "id": 35,
+      "name": "Interactive",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Google,Amazon"
+    },
+    {
+      "id": 36,
+      "name": "Game Theory",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Microsoft,Infosys,Adobe,Swiggy,Apple"
+    },
+    {
+      "id": 37,
+      "name": "Data Stream",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Adobe,TCS,Flipkart"
+    },
+    {
+      "id": 38,
+      "name": "Brainteaser",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,Infosys,Uber,Netflix"
+    },
+    {
+      "id": 39,
+      "name": "Randomized",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Meta,Zomato,Flipkart,Google,Infosys"
+    },
+    {
+      "id": 40,
+      "name": "Monotonic Queue",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Goldman Sachs,Meta,Amazon"
+    },
+    {
+      "id": 41,
+      "name": "Merge Sort",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Wipro,Goldman Sachs"
+    },
+    {
+      "id": 42,
+      "name": "Quick Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,Flipkart,Zomato,Adobe"
+    },
+    {
+      "id": 43,
+      "name": "Bubble Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Apple,Swiggy,Goldman Sachs,Meta"
+    },
+    {
+      "id": 44,
+      "name": "Insertion Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Flipkart,Swiggy"
+    },
+    {
+      "id": 45,
+      "name": "Selection Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,Google"
+    },
+    {
+      "id": 46,
+      "name": "Radix Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Amazon,Netflix,Flipkart,Apple"
+    },
+    {
+      "id": 47,
+      "name": "Bucket Sort",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Netflix,Zomato,Infosys,Uber"
+    },
+    {
+      "id": 48,
+      "name": "Counting Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Infosys,Meta,Apple"
+    },
+    {
+      "id": 49,
+      "name": "Topological Sort",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Amazon,Google,Infosys"
+    },
+    {
+      "id": 50,
+      "name": "MST",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Meta,Uber,Zomato,Infosys"
+    },
+    {
+      "id": 51,
+      "name": "Dijkstra",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "TCS,Meta,Netflix,Goldman Sachs"
+    },
+    {
+      "id": 52,
+      "name": "Bellman Ford",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Wipro,Flipkart,Google,Goldman Sachs,Amazon"
+    },
+    {
+      "id": 53,
+      "name": "Floyd Warshall",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Amazon,Microsoft,Google"
+    },
+    {
+      "id": 54,
+      "name": "Kruskal",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Goldman Sachs,Zomato,Flipkart,Meta,Wipro"
+    },
+    {
+      "id": 55,
+      "name": "Prim",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Wipro,Apple"
+    },
+    {
+      "id": 56,
+      "name": "Bipartite Graph",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Infosys,Apple"
+    },
+    {
+      "id": 57,
+      "name": "Eulerian Circuit",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Uber,Infosys,Microsoft"
+    },
+    {
+      "id": 58,
+      "name": "Trie",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Microsoft,Swiggy"
+    },
+    {
+      "id": 59,
+      "name": "Suffix Array",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Flipkart,Amazon,Apple,Netflix"
+    },
+    {
+      "id": 60,
+      "name": "Suffix Tree",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Meta,Microsoft,Goldman Sachs,Netflix"
+    },
+    {
+      "id": 61,
+      "name": "Fenwick Tree",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Infosys,Wipro"
+    },
+    {
+      "id": 62,
+      "name": "Binary Indexed Tree",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Netflix,Swiggy,Wipro,Zomato,Microsoft"
+    },
+    {
+      "id": 63,
+      "name": "AVL Tree",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Swiggy,Zomato,Google,Goldman Sachs"
+    },
+    {
+      "id": 64,
+      "name": "Red Black Tree",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "Amazon,Meta,Adobe,Infosys"
+    },
+    {
+      "id": 65,
+      "name": "B-Tree",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "Amazon,Swiggy,Microsoft"
+    },
+    {
+      "id": 66,
+      "name": "B+ Tree",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Microsoft,Apple"
+    },
+    {
+      "id": 67,
+      "name": "Skip List",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Google,Zomato"
+    },
+    {
+      "id": 68,
+      "name": "Fibonacci Heap",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Microsoft,Netflix,Google,Infosys,Wipro"
+    },
+    {
+      "id": 69,
+      "name": "Binomial Heap",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Google,Uber"
+    },
+    {
+      "id": 70,
+      "name": "Treap",
+      "category": "DSA",
+      "difficulty": "Hard",
+      "company_tags": "TCS,Flipkart,Uber"
+    },
+    {
+      "id": 71,
+      "name": "Splay Tree",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "company_tags": "TCS,Netflix,Wipro,Flipkart"
+    },
+    {
+      "id": 72,
+      "name": "Process Management",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Google,Microsoft,Infosys,Uber"
+    },
+    {
+      "id": 73,
+      "name": "CPU Scheduling",
+      "category": "OS",
+      "difficulty": "Easy",
+      "company_tags": "Infosys,Zomato,TCS,Google"
+    },
+    {
+      "id": 74,
+      "name": "Deadlocks",
+      "category": "OS",
+      "difficulty": "Easy",
+      "company_tags": "Wipro,Uber"
+    },
+    {
+      "id": 75,
+      "name": "Memory Management",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Google,Meta,Infosys,TCS,Apple"
+    },
+    {
+      "id": 76,
+      "name": "Virtual Memory",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Adobe,Microsoft,TCS,Flipkart"
+    },
+    {
+      "id": 77,
+      "name": "Paging",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Wipro,Google,Swiggy"
+    },
+    {
+      "id": 78,
+      "name": "Threading",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Adobe,Flipkart,TCS,Infosys,Apple"
+    },
+    {
+      "id": 79,
+      "name": "Synchronization",
+      "category": "OS",
+      "difficulty": "Easy",
+      "company_tags": "Uber,Apple,Swiggy,Microsoft,Goldman Sachs"
+    },
+    {
+      "id": 80,
+      "name": "File Systems",
+      "category": "OS",
+      "difficulty": "Easy",
+      "company_tags": "Meta,Netflix,Google,Swiggy,Amazon"
+    },
+    {
+      "id": 81,
+      "name": "Interprocess Communication",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Wipro,Goldman Sachs,Google,Microsoft,Netflix"
+    },
+    {
+      "id": 82,
+      "name": "Mutex",
+      "category": "OS",
+      "difficulty": "Easy",
+      "company_tags": "Zomato,Adobe"
+    },
+    {
+      "id": 83,
+      "name": "Semaphores",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Goldman Sachs,Flipkart"
+    },
+    {
+      "id": 84,
+      "name": "Monitors",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Google,Amazon,Netflix,Flipkart,Adobe"
+    },
+    {
+      "id": 85,
+      "name": "Banker's Algorithm",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Wipro,Adobe,Goldman Sachs,Swiggy,Infosys"
+    },
+    {
+      "id": 86,
+      "name": "Page Replacement Algorithms",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Zomato,Goldman Sachs"
+    },
+    {
+      "id": 87,
+      "name": "Disk Scheduling",
+      "category": "OS",
+      "difficulty": "Easy",
+      "company_tags": "Meta,Google"
+    },
+    {
+      "id": 88,
+      "name": "I/O Hardware",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Wipro,Google"
+    },
+    {
+      "id": 89,
+      "name": "Interrupts",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Meta,Google,Zomato"
+    },
+    {
+      "id": 90,
+      "name": "System Calls",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Google,Amazon"
+    },
+    {
+      "id": 91,
+      "name": "Kernel",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,TCS,Meta"
+    },
+    {
+      "id": 92,
+      "name": "Thrashing",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Meta,Google,Zomato,TCS"
+    },
+    {
+      "id": 93,
+      "name": "Segmentation",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Google,Adobe,Amazon,Swiggy"
+    },
+    {
+      "id": 94,
+      "name": "TLB",
+      "category": "OS",
+      "difficulty": "Hard",
+      "company_tags": "Adobe,Meta,Goldman Sachs,Google,Amazon"
+    },
+    {
+      "id": 95,
+      "name": "Inverted Page Table",
+      "category": "OS",
+      "difficulty": "Medium",
+      "company_tags": "Flipkart,Zomato,Goldman Sachs,Wipro"
+    },
+    {
+      "id": 96,
+      "name": "SQL Basics",
+      "category": "DBMS",
+      "difficulty": "Hard",
+      "company_tags": "Google,Wipro,Swiggy,Amazon"
+    },
+    {
+      "id": 97,
+      "name": "Joins",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Adobe,TCS"
+    },
+    {
+      "id": 98,
+      "name": "Normalization",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "TCS,Microsoft,Goldman Sachs,Uber,Swiggy"
+    },
+    {
+      "id": 99,
+      "name": "Transactions",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Google,Meta,Amazon"
+    },
+    {
+      "id": 100,
+      "name": "ACID Properties",
+      "category": "DBMS",
+      "difficulty": "Hard",
+      "company_tags": "Amazon,Google,Wipro"
+    },
+    {
+      "id": 101,
+      "name": "Indexing",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Flipkart,Infosys,Google"
+    },
+    {
+      "id": 102,
+      "name": "B-Trees",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Uber,Amazon,Swiggy"
+    },
+    {
+      "id": 103,
+      "name": "ER Diagrams",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Adobe,Microsoft"
+    },
+    {
+      "id": 104,
+      "name": "NoSQL",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Google,TCS,Apple"
+    },
+    {
+      "id": 105,
+      "name": "Relational Algebra",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Swiggy,Zomato,Microsoft,Amazon"
+    },
+    {
+      "id": 106,
+      "name": "Keys (Primary, Foreign, Candidate)",
+      "category": "DBMS",
+      "difficulty": "Hard",
+      "company_tags": "Netflix,Microsoft,Wipro,Flipkart,Apple"
+    },
+    {
+      "id": 107,
+      "name": "Integrity Constraints",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Uber,Infosys"
+    },
+    {
+      "id": 108,
+      "name": "Views",
+      "category": "DBMS",
+      "difficulty": "Hard",
+      "company_tags": "Uber,Google"
+    },
+    {
+      "id": 109,
+      "name": "Triggers",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Meta,Flipkart,TCS,Zomato,Netflix"
+    },
+    {
+      "id": 110,
+      "name": "Stored Procedures",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Meta,Flipkart,Goldman Sachs,Netflix,Google"
+    },
+    {
+      "id": 111,
+      "name": "Concurrency Control",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Uber,Infosys"
+    },
+    {
+      "id": 112,
+      "name": "Locking Protocols",
+      "category": "DBMS",
+      "difficulty": "Hard",
+      "company_tags": "Netflix,Google"
+    },
+    {
+      "id": 113,
+      "name": "Timestamp Ordering",
+      "category": "DBMS",
+      "difficulty": "Hard",
+      "company_tags": "Uber,Google"
+    },
+    {
+      "id": 114,
+      "name": "Recovery Systems",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Netflix,Zomato,Microsoft"
+    },
+    {
+      "id": 115,
+      "name": "Log-Based Recovery",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Infosys,Uber,Google"
+    },
+    {
+      "id": 116,
+      "name": "Query Optimization",
+      "category": "DBMS",
+      "difficulty": "Medium",
+      "company_tags": "Infosys,Google,Adobe,Goldman Sachs"
+    },
+    {
+      "id": 117,
+      "name": "Distributed Databases",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Zomato,Swiggy,Apple,Adobe"
+    },
+    {
+      "id": 118,
+      "name": "Data Warehousing",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "Amazon,Zomato"
+    },
+    {
+      "id": 119,
+      "name": "Data Mining",
+      "category": "DBMS",
+      "difficulty": "Easy",
+      "company_tags": "TCS,Adobe"
+    },
+    {
+      "id": 120,
+      "name": "OSI Model",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Flipkart,Google"
+    },
+    {
+      "id": 121,
+      "name": "TCP/IP Model",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "Swiggy,Amazon,Netflix,Microsoft"
+    },
+    {
+      "id": 122,
+      "name": "HTTP/HTTPS",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Wipro,Zomato,Infosys,Netflix"
+    },
+    {
+      "id": 123,
+      "name": "DNS",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "Meta,TCS,Goldman Sachs"
+    },
+    {
+      "id": 124,
+      "name": "Subnetting",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Amazon,Google,Apple,Meta,Netflix"
+    },
+    {
+      "id": 125,
+      "name": "Routing",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Amazon,Microsoft,Swiggy"
+    },
+    {
+      "id": 126,
+      "name": "TCP vs UDP",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "Goldman Sachs,Apple,Meta"
+    },
+    {
+      "id": 127,
+      "name": "Sockets",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "Infosys,Apple,Uber"
+    },
+    {
+      "id": 128,
+      "name": "REST",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "TCS,Google,Zomato,Microsoft,Goldman Sachs"
+    },
+    {
+      "id": 129,
+      "name": "IP Addressing",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Microsoft,Flipkart,Amazon"
+    },
+    {
+      "id": 130,
+      "name": "IPv4 vs IPv6",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "Goldman Sachs,Wipro,Microsoft"
+    },
+    {
+      "id": 131,
+      "name": "MAC Addresses",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "Google,TCS"
+    },
+    {
+      "id": 132,
+      "name": "ARP/RARP",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "Uber,Google,Amazon,Apple,Meta"
+    },
+    {
+      "id": 133,
+      "name": "ICMP",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Wipro,Flipkart,Netflix"
+    },
+    {
+      "id": 134,
+      "name": "BGP",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,Uber,Swiggy,Apple"
+    },
+    {
+      "id": 135,
+      "name": "OSPF",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "Netflix,Swiggy"
+    },
+    {
+      "id": 136,
+      "name": "RIP",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "TCS,Microsoft,Meta,Infosys,Amazon"
+    },
+    {
+      "id": 137,
+      "name": "Congestion Control",
+      "category": "CN",
+      "difficulty": "Medium",
+      "company_tags": "Apple,Flipkart,Google"
+    },
+    {
+      "id": 138,
+      "name": "Flow Control",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Uber,Swiggy,Microsoft,Wipro,Zomato"
+    },
+    {
+      "id": 139,
+      "name": "Cryptography Basics",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "Zomato,Apple"
+    },
+    {
+      "id": 140,
+      "name": "SSL/TLS",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Uber,Infosys,Apple,TCS"
+    },
+    {
+      "id": 141,
+      "name": "Firewalls",
+      "category": "CN",
+      "difficulty": "Hard",
+      "company_tags": "TCS,Flipkart,Uber"
+    },
+    {
+      "id": 142,
+      "name": "VPN",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Adobe,Flipkart"
+    },
+    {
+      "id": 143,
+      "name": "Network Topologies",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "TCS,Microsoft,Goldman Sachs,Wipro,Infosys"
+    },
+    {
+      "id": 144,
+      "name": "Error Detection",
+      "category": "CN",
+      "difficulty": "Easy",
+      "company_tags": "Microsoft,Flipkart,Swiggy"
+    },
+    {
+      "id": 145,
+      "name": "Load Balancing",
+      "category": "SystemDesign",
+      "difficulty": "Hard",
+      "company_tags": "Microsoft,Flipkart,Meta"
+    },
+    {
+      "id": 146,
+      "name": "Caching",
+      "category": "SystemDesign",
+      "difficulty": "Hard",
+      "company_tags": "Uber,Microsoft"
+    },
+    {
+      "id": 147,
+      "name": "Database Sharding",
+      "category": "SystemDesign",
+      "difficulty": "Hard",
+      "company_tags": "Google,Zomato"
+    },
+    {
+      "id": 148,
+      "name": "Microservices",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Microsoft,Wipro"
+    },
+    {
+      "id": 149,
+      "name": "Message Queues",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Uber,Flipkart,Zomato,TCS"
+    },
+    {
+      "id": 150,
+      "name": "CDN",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Google,Meta,Amazon,Microsoft,Apple"
+    },
+    {
+      "id": 151,
+      "name": "API Design",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Meta,Wipro,Flipkart,Amazon,Netflix"
+    },
+    {
+      "id": 152,
+      "name": "URL Shortener",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Zomato,Swiggy,Google,TCS,Wipro"
+    },
+    {
+      "id": 153,
+      "name": "Rate Limiting",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Zomato,Google"
+    },
+    {
+      "id": 154,
+      "name": "Consistent Hashing",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Zomato,Adobe,Swiggy,Wipro"
+    },
+    {
+      "id": 155,
+      "name": "CAP Theorem",
+      "category": "SystemDesign",
+      "difficulty": "Hard",
+      "company_tags": "Wipro,Infosys,TCS,Microsoft,Amazon"
+    },
+    {
+      "id": 156,
+      "name": "PACELC Theorem",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Goldman Sachs,Apple"
+    },
+    {
+      "id": 157,
+      "name": "Leader Election",
+      "category": "SystemDesign",
+      "difficulty": "Hard",
+      "company_tags": "Zomato,Swiggy"
+    },
+    {
+      "id": 158,
+      "name": "Distributed Caching",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Google,TCS,Swiggy,Netflix"
+    },
+    {
+      "id": 159,
+      "name": "Event Sourcing",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Flipkart,Netflix,Uber"
+    },
+    {
+      "id": 160,
+      "name": "CQRS",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Zomato,Goldman Sachs,Wipro,Microsoft"
+    },
+    {
+      "id": 161,
+      "name": "Service Discovery",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Amazon,Flipkart,Apple"
+    },
+    {
+      "id": 162,
+      "name": "Chat System Design",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Uber"
+    },
+    {
+      "id": 163,
+      "name": "Notification System Design",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "TCS,Infosys,Uber,Netflix"
+    },
+    {
+      "id": 164,
+      "name": "Video Streaming Design",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Meta,Swiggy"
+    },
+    {
+      "id": 165,
+      "name": "Social Media Feed Design",
+      "category": "SystemDesign",
+      "difficulty": "Hard",
+      "company_tags": "Adobe,Amazon,Netflix"
+    },
+    {
+      "id": 166,
+      "name": "Ride Sharing App Design",
+      "category": "SystemDesign",
+      "difficulty": "Medium",
+      "company_tags": "Microsoft,Amazon,Meta,Goldman Sachs"
+    },
+    {
+      "id": 167,
+      "name": "E-commerce System Design",
+      "category": "SystemDesign",
+      "difficulty": "Easy",
+      "company_tags": "Netflix,Google,Amazon"
+    },
+    {
+      "id": 168,
+      "name": "Tell Me About Yourself",
+      "category": "Behavioral",
+      "difficulty": "Hard",
+      "company_tags": "Flipkart,Netflix,Infosys"
+    },
+    {
+      "id": 169,
+      "name": "Strengths/Weaknesses",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "company_tags": "Zomato,Swiggy"
+    },
+    {
+      "id": 170,
+      "name": "Conflict Resolution",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "company_tags": "Meta,Wipro,Infosys,TCS,Flipkart"
+    },
+    {
+      "id": 171,
+      "name": "Leadership",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "company_tags": "Google,Goldman Sachs,Amazon"
+    },
+    {
+      "id": 172,
+      "name": "Teamwork",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "company_tags": "Goldman Sachs,Amazon,TCS"
+    },
+    {
+      "id": 173,
+      "name": "Why This Company",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "company_tags": "Flipkart,Microsoft"
+    },
+    {
+      "id": 174,
+      "name": "Biggest Challenge",
+      "category": "Behavioral",
+      "difficulty": "Hard",
+      "company_tags": "Meta,Microsoft"
+    },
+    {
+      "id": 175,
+      "name": "Failure Example",
+      "category": "Behavioral",
+      "difficulty": "Hard",
+      "company_tags": "Meta,Flipkart,Google,Adobe"
+    },
+    {
+      "id": 176,
+      "name": "Time Management",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "company_tags": "Google,Amazon,Swiggy,Zomato"
+    },
+    {
+      "id": 177,
+      "name": "Handling Pressure",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "company_tags": "Swiggy,Zomato"
+    },
+    {
+      "id": 178,
+      "name": "Adaptability",
+      "category": "Behavioral",
+      "difficulty": "Hard",
+      "company_tags": "Goldman Sachs,TCS,Google,Infosys"
+    },
+    {
+      "id": 179,
+      "name": "Communication Skills",
+      "category": "Behavioral",
+      "difficulty": "Medium",
+      "company_tags": "Google,Meta,Apple,Amazon,Wipro"
+    },
+    {
+      "id": 180,
+      "name": "Problem Solving",
+      "category": "Behavioral",
+      "difficulty": "Hard",
+      "company_tags": "Netflix,Meta"
+    },
+    {
+      "id": 181,
+      "name": "Initiative",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "company_tags": "Google,Meta,Amazon,Swiggy"
+    },
+    {
+      "id": 182,
+      "name": "Career Goals",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "company_tags": "Wipro,Google,Uber"
+    },
+    {
+      "id": 183,
+      "name": "Mentorship",
+      "category": "Behavioral",
+      "difficulty": "Easy",
+      "company_tags": "Amazon,Flipkart"
+    },
+    {
+      "id": 184,
+      "name": "Handling Constructive Criticism",
+      "category": "Behavioral",
+      "difficulty": "Hard",
+      "company_tags": "Uber,Zomato,Flipkart,Meta,Netflix"
+    }
+  ],
+  "user_progress": [],
+  "mock_interviews": [],
+  "resume_analyses": [],
+  "daily_goals": [],
+  "autoIds": {
+    "users": 1,
+    "topics": 185,
+    "user_progress": 1,
+    "mock_interviews": 1,
+    "resume_analyses": 1,
+    "daily_goals": 1
+  }
+}
